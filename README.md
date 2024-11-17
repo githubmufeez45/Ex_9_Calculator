@@ -23,8 +23,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 /*
 Program to print the text “calculator operation”.
-Developed by:
-Registeration Number :
+Developed by: SHAIK MUFEEZUR RAHAMAN
+Registeration Number : 212221043007
 */
 ## OUTPUT
 ## RESULT
